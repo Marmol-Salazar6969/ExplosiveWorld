@@ -1,0 +1,7 @@
+C:\Users\KnobbyTacks\Desktop\ExplosiveWorld\src\bin\Release\net48\ExplosiveWorld.dll
+C:\Users\KnobbyTacks\Desktop\ExplosiveWorld\src\obj\Release\net48\ExplosiveWorld.csproj.AssemblyReference.cache
+C:\Users\KnobbyTacks\Desktop\ExplosiveWorld\src\obj\Release\net48\ExplosiveWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KnobbyTacks\Desktop\ExplosiveWorld\src\obj\Release\net48\ExplosiveWorld.AssemblyInfoInputs.cache
+C:\Users\KnobbyTacks\Desktop\ExplosiveWorld\src\obj\Release\net48\ExplosiveWorld.AssemblyInfo.cs
+C:\Users\KnobbyTacks\Desktop\ExplosiveWorld\src\obj\Release\net48\ExplosiveWorld.csproj.CoreCompileInputs.cache
+C:\Users\KnobbyTacks\Desktop\ExplosiveWorld\src\obj\Release\net48\ExplosiveWorld.dll

@@ -1,0 +1,25 @@
+*To do
+~~Finished
+^Working
+
+________________________________________________________
+
+~~Make the mod folder and setup the stat of the project
+
+~~Make the remix menu
+~~Options:
+~~Singularity bomb
+~~No bombs on certain situations
+^Bomb rad and damage
+(small damage and big damage sliders)
+________________________________________________________
+
+~~All dropwigs to explode on drop
+~~waternuts to explode on pop 
+~~pole plants/monster kelp to explode on capture 
+~~snails explode on pop
+
+
+
+
+
